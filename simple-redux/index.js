@@ -1,3 +1,7 @@
+// to setup redux
+// npm i redux 
+-----------------------------------------------------
+
 // importing redux
 const redux = require('redux');
 
